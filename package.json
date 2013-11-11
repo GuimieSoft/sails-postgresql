@@ -17,7 +17,8 @@
   "dependencies": {
     "pg": "~2.8.2",
     "underscore": "~1.5.2",
-    "async": "~0.2.9"
+    "async": "~0.2.9",
+    "pg-transaction": "~1.0.1"
   },
   "devDependencies": {
     "mocha": "*",
